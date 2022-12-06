@@ -6,6 +6,7 @@ This solution was built on enitity framework data-first and a local sql express 
 # SQL setup
 In SSMS run the following query to build the database (ArcadeDiner), table(ReservationInfo), and seed a little data for this application.
 
+
 IF NOT EXISTS(SELECT * FROM sys.databases WHERE name = 'ArcadeDiner')
   BEGIN
     CREATE DATABASE [ArcadeDiner]
