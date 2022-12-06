@@ -50,4 +50,4 @@ INSERT INTO [dbo].[ReservationInfo] values
 "Server={YOUR-HOSTNAME}\\SQLEXPRESS;Database=ArcadeDiner;TrustServerCertificate=True;Trusted_Connection=True;Encrypt=False"
 
 It may be possible that you have to change your SQL server to mixed security (SQL Server and Windows Authentication Mode) if errors occur.
-The Sln will run when oppened and debugged in Visual Studio (I used Visual Studio 2022 and VS Code during the challenge).
+The Sln will run when opened and debugged in Visual Studio (I used Visual Studio 2022 and VS Code during the challenge).
