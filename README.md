@@ -1,7 +1,7 @@
 # RBRetroArcadeDiner
 Angular .Net Core Coding Challenge
 
-This solution was built on enitity framework code-first and a local sql express server
+This solution was built on enitity framework data-first and a local sql express server
 
 # SQL setup
 In SSMS run the following query to build the database (ArcadeDiner), table(ReservationInfo), and seed a little data for this application.
